@@ -16,3 +16,6 @@ Each of the four models decribed in the report are defined and compiled and can 
 Post training and evaluation, the model can be saved.
 
 Towards the end, hyper-parameter tuning code is provided, which was used to optimize some of the hyperparameters.
+
+
+To reproduce the results, the code cells in the file can be run with approprite file paths wherever applicable.
